@@ -1,6 +1,6 @@
 # Reducing Child Accident Risk Through Visual Cues
 
-A field experiment testing whether low-cost, child-themed roadside cues can reduce vehicle speeds on residential streets. Using dual-camera speed measurement and regression analysis, we found that toys + signage reduced speeds by 1.9 mph and increased 25-mph compliance by 18 percentage points—demonstrating measurable safety improvements without expensive infrastructure.
+A field experiment testing whether low-cost, child-themed roadside cues can reduce vehicle speeds on residential streets. Using dual-camera speed measurement and regression analysis, we found that toys + signage reduced speeds by 1.9 mph and increased 25-mph compliance by 18 percentage points, demonstrating measurable safety improvements without expensive infrastructure.
 
 ---
 
