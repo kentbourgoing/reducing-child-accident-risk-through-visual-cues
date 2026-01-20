@@ -201,5 +201,5 @@ Child Pedestrian Accident Risk. UC Berkeley School of Information, DATASCI 241.
 | Name | Email | LinkedIn |
 |------|-------|----------|
 | Daniel Brown | daniel.brown@berkeley.edu | [LinkedIn](https://www.linkedin.com/in/daniel-s-brown/) |
-| Kent Bourgoing | kent1bp@berkeley.edu | [LinkedIn](https://linkedin.com/in/kentbourgoing) |
+| Kent Bourgoing | kent1bp@berkeley.edu | [LinkedIn](https://www.linkedin.com/in/kent-bourgoing/) |
 | Sunil Thakur | sunil.thakur@berkeley.edu | [LinkedIn](https://www.linkedin.com/in/sktonline/) |
