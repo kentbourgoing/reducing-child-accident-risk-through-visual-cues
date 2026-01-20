@@ -179,7 +179,7 @@ reducing-child-accident-risk/
 ## Credits
 
 **Institution:** UC Berkeley School of Information
-**Course:** DATASCI 241 (Experiments and Causal Inference), Section 2
+**Course:** DATASCI 241 - Experiments and Causal Inference
 **Timeline:** May 2025 - August 2025
 
 **Data Sources:**
